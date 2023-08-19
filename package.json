@@ -2,7 +2,7 @@
   "name": "localwebdevelopersproject",
   "version": "1.0.0",
   "description": "Testing project with the local web developers\r ---\r #local web developers are working here",
-  "main": "logger.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"

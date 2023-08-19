@@ -14,7 +14,7 @@ app.get('/form_en', (req, res) => {
     res.sendFile(__dirname + '/public/form_en.html'); // Change the file path as needed
 });
 
-app.get('/home', (req, res) => {
+app.get('/', (req, res) => {
     res.sendFile(__dirname + '/public/main_bg.html'); // Change the file path as needed
 });
 
